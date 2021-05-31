@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WorkItems>
+    <WorkItem>
+        <FilePath>C:\Users\USER\Documents\UiPath\UIpath practice\ks practice\Practice2\</FilePath>
+        <SerchFile>사업자등록상태조회.xlsx</SerchFile>
+        <ResultFile>폐업자명단.xlsx</ResultFile>
+        <HomeTaxURL>https://www.hometax.go.kr</HomeTaxURL>
+        <KillProcessList>EXCEL,chrome</KillProcessList>
+    </WorkItems>
+</WorkItems>
